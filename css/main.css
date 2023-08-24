@@ -1,0 +1,1056 @@
+
+/* TOP NAVIGATION BAR */
+
+.giftoshead p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+.giftoslogos{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.navbarsession{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    background-color: #f9ece6;
+    border-radius: 10px 10px 0px 0px;
+    width: 94%;
+}
+.navbarlinks{
+    gap: 40px;
+}
+.navbarlinks a{
+    font-size: 16px;
+    font-weight: 495;
+}
+.navbarlinks span{
+    border: 1px solid transparent;
+    background-color: white;
+    padding: 5px 18px;
+    border-radius: 8px;
+}
+.giftosnavbarhead{
+    display: none;
+}
+
+/* MAIN IMAGES */
+
+.mainimages{
+    background-color: rgb(255, 156, 172);
+    display: flex;
+    width: 94%;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    height: 700px
+}
+.maincontent{
+    padding-top: 10%;
+    margin: 90px;
+}
+.maincontent p{
+    width: 80%;
+    color: white;
+    font-size: 17px;
+}
+.maincontent h1{
+    width: 60%;
+    color: white;
+    font-weight: 780;
+    font-size: 60px;
+}
+.maincontent button{
+    border: transparent;
+    padding: 10px 45px;
+    border-radius: 8px;
+    color: white;
+    background-color: #e83e71;
+    font-weight: 480;
+    cursor: pointer;
+}
+.maincontent button:hover{
+    background-color: rgb(255, 156, 172);
+    color: #e83e71;
+    border: 1px solid #e83e71;
+}
+.mainimgee img{
+    padding-right: 120px;
+    padding-top: 20%;
+}
+
+/* LATEST PRODUCT */
+
+.latesthead p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.productrow1{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.card1{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card2{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card3{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card4{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card1-1{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card2-2{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card3-3{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card4-4{
+    border: 1px solid transparent;
+    background-color: rgba(128, 128, 128, 0.195);
+    width: 20%;
+}
+.card1 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card2 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card3 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card4 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card1-1 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card2-2 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card3-3 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card4-4 p{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    background-color: white;
+    border-radius: 100%;
+    width: 17%;
+    height: 50px;
+    padding: 10px 10px;
+}
+.card1 img{
+    width: 41%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card2 img{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card3 img{
+    width: 52%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card4 img{
+    width: 62%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card1-1 img{
+    width: 49%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card2-2 img{
+    width: 46%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card3-3 img{
+    width: 41%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.card4-4 img{
+    width: 37%;
+    margin: auto;
+    display: flex;
+    padding-bottom: 40px;
+}
+.pronameprice{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice3{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.pronameprice0-0{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice1-1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.pronameprice2-2{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice3-3{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+.pronameprice div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice1 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice2 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice3 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice0-0 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice1-1 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice2-2 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.pronameprice3-3 div{
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.proprice span{
+    color: red;
+}
+.latestproduct{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.viewproductbtn span{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #e83e71;
+    background-color: #e83e71;
+    color: white;
+    font-weight: 480;
+    padding: 10px 10px;
+    width: 15%;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.viewproductbtn span:hover{
+    border: 1px solid #e83e71;
+    color: #e83e71;
+    background-color: white;
+}
+.viewproductbtn{
+    padding-bottom: 100px;
+}
+
+/* SAVINGS MAIN IMG */
+
+.savingmainimage{
+    background-color: #7fd7eb;
+    width: 94%;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+}
+.savingimageee{
+    padding-top: 70px;
+    padding-left: 50px;
+}
+.savingcontents h1{
+    padding-bottom: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 40%;
+}
+.savingcontents p{
+    padding-bottom: 20px;
+    color: white;
+    font-size: 18px;
+    width: 85%;
+}
+.savingbutton{
+    display: flex;
+    gap: 20px;
+}
+.savingbuynow p{
+    border: 1px solid #109dbd;
+    background-color: #109dbd;
+    padding: 8px 60px;
+    width: 100%;
+}
+.savingbuynow p:hover{
+    border: 1px solid #109dbd;
+    color: #109dbd;
+    background-color: #7fd7eb;
+    cursor: pointer;
+}
+.savingseemore p{
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    padding: 8px 60px;
+    width: 100%;
+}
+.savingseemore p:hover{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+.savingcontents{
+    margin-left: 70px;
+    padding-top: 10%;
+    align-items: center;
+}
+
+/* SHOP WITH US */
+
+.shopushead h1{
+    text-align: center;
+    padding-top: 7%;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.contentsshopus{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.deliveryus{
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 20%;
+}
+.deliveryus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.shipingus{
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 20%;
+}
+.shipingus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.qualityus{
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 20%;
+}
+.qualityus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* LOVED ONECE MAIN IMG */
+
+.lovedonecemainimg{
+    background-color: #6929a5;
+    width: 94%;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.lovedimageee{
+    padding-top: 70px;
+    padding-left: 50px;
+}
+.lovedimageee img{
+    width: 90%;
+    padding-bottom: 50px;
+}
+.lovedcontents h1{
+    padding-bottom: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 40%;
+}
+.lovedcontents p{
+    padding-bottom: 20px;
+    color: white;
+    font-size: 18px;
+    width: 85%;
+}
+.lovedbutton{
+    display: flex;
+    gap: 20px;
+}
+.lovedbuynow p{
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    padding: 8px 60px;
+    width: 100%;
+}
+.lovedbuynow p:hover{
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    cursor: pointer;
+}
+.lovedseemore p{
+    border: 1px solid #9242dd;
+    background-color: #9242dd;
+    color: white;
+    padding: 8px 60px;
+    width: 100%;
+}
+.lovedseemore p:hover{
+    border: 1px solid #9242dd;
+    background-color: transparent;
+    color: #9242dd;
+    cursor: pointer;
+}
+.lovedcontents{
+    margin-left: 70px;
+    padding-top: 12%;
+    align-items: center;
+}
+
+/* CONTACT US */
+
+.contacthead h1{
+    margin-left: 11%;
+    font-size: 30px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+}
+.contactcontents{
+    display: flex;
+    width: 94%;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.contactmap{
+    width: 45%;
+}
+.contactadding{
+    width: 39%;
+    height: 500px;
+}
+.contactmap iframe{
+    width: 100%;
+    height: 500px;
+}
+.contactadding div{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.contactname input{
+    padding: 10px 80%;
+}
+.contactemail input{
+    padding: 10px 80%;
+}
+.contactphone input{
+    padding: 10px 80%;
+}
+.contactmessage input{
+    padding: 40px 80%;
+}
+.contactsendbtn span{
+    border: 1px solid #e83e71;
+    background-color: #e83e71;
+    text-align: center;
+    padding: 10px 40px;
+    margin-left: 96%;
+    cursor: pointer;
+}
+.contactsendbtn span:hover{
+    border: 1px solid #e83e71;
+    color: #e83e71;
+    background-color: transparent;
+}
+
+/* TESTIMONIAL */
+
+.testimonialhead h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bolder;
+    font-size: 35px;
+}
+.testimonialtext{
+    width: 82%;
+    margin: auto;
+}
+.testibotton i{
+    color: black;
+    font-size: 30px;
+    border: 1px solid #e83e71;
+    background-color: #e83e71;
+    padding: 50px 9px;
+}
+.testimonialtext h1{
+    font-weight: bold;
+    font-size: 22px;
+    color: #e83e71;
+}
+.testimonialtext h3{
+    font-size: 17px;
+    color: rgba(128, 128, 128, 0.489);
+}
+.testimonialtext p{
+    font-weight: 500;
+}
+.testimonialtext{
+    border: 1px solid gray;
+    padding: 10px 10px;
+}
+.testicaroselmain{
+    margin-bottom: 900px;
+    width: 80%;
+    margin: auto;
+}
+.testimonialmainone{
+    margin-bottom: 100px;
+}
+
+/* FOOTER */
+
+.footermain{
+    background-color: black;
+    height: 375px;
+    width: 94%;
+    margin: auto;
+}
+.footerrow1{
+    display: flex;
+    justify-content: center;
+}
+.footerrow1 i{
+    color: white;
+    padding-top: 70px;
+    margin: 8px;
+    font-size: 25px;
+}
+.footerrow2{
+    padding-top: 35px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerabout h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.footerabout p{
+    color: rgb(171, 167, 167);
+    padding-top: 20px;
+    font-weight: bold;
+}
+.footernewletter h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.footernewletter input{
+    margin-top: 20px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+.footernewletter h3{
+    font-size: 18px;
+    color: white;
+    border: 1px solid rgb(255, 156, 172);
+    padding: 8px 10px;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(255, 156, 172);
+    cursor: pointer;
+}
+.footerneedhelp h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.footerneedhelp p{
+    color: rgb(171, 167, 167);
+    padding-top: 20px;
+    font-weight: bold;
+}
+.footercontact h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+.footercontact p{
+    color: rgb(171, 167, 167);
+    
+    font-weight: bold;
+}
+.contactlogos{
+    padding-top: 20px;
+}
+.lastdiv{
+    background-color: black;
+    height: 80px;
+    width: 94%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.lastdiv h1{
+    border-bottom: 2px solid gray;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.lastdiv p{
+    text-align: center;
+    color: rgb(171, 167, 167);
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+/* MEDIA QUERY */
+
+
+@media (min-width:300px) and (max-width:576.98px){
+
+/* TOP NAVIGATION BAR */
+
+.giftoshead{
+    display: none;
+}
+.giftosnavbarhead{
+    font-weight: bolder;
+    padding-right: 100px;
+}
+.navbarlinks{
+    text-align: center;
+}
+.giftoslogos{
+    margin: auto;
+}
+.giftosnavbarhead{
+    display: inline;
+}
+
+/* MAIN IMAGES */
+
+.mainimages{
+    display: block;
+    height: 100%;
+}
+.maincontent{
+    padding-top: 1%;
+    margin: 0%;
+}
+.maincontent p{
+    width: 80%;
+    margin: 40px;
+}
+.maincontent h1{
+    width: 80%;
+    margin: 40px;
+    
+}
+.maincontent button{
+    margin: 40px;
+}
+.mainimgee img{
+    margin: 35px;
+}
+
+/* LATEST PRODUCT */
+
+.latesthead p{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.productrow1{
+    display: inline;
+}
+.card1{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card2{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card3{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card4{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card1-1{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card2-2{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card3-3{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.card4-4{
+    width: 90%;
+    margin-bottom: 30px !important;
+    margin: auto;
+}
+.latestproduct{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.viewproductbtn span{
+    width: 60%;
+}
+
+/* SAVINGS MAIN IMG */
+
+.savingmainimage{
+    width: 94%;
+    flex-wrap: wrap-reverse;
+}
+.savingimageee{
+    padding-top: 70px;
+    padding-left: 50px;
+}
+.savingcontents h1{
+    width: 70%;
+}
+.savingbutton{
+    display: inline;
+}
+.savingbuynow p{
+    width: 70%;
+}
+.savingseemore p{
+    width: 70%;
+}
+.savingcontents{
+    margin-left: 10%;
+}
+.savingimageee img{
+    width: 95%;
+}
+
+/* SHOP WITH US */
+
+.shopushead h1{
+    text-align: center;
+    padding-top: 7%;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.contentsshopus{
+    display: block;
+}
+.deliveryus{
+    margin-bottom: 30px !important;
+    margin: auto;
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.deliveryus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.shipingus{
+    margin-bottom: 30px !important;
+    margin: auto;
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.shipingus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.qualityus{
+    margin-bottom: 30px !important;
+    margin: auto;
+    border: 1px solid #f9ece65b;
+    background-color: #f9ece65b;
+    text-align: center;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.qualityus img{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* LOVED ONECE MAIN IMG */
+
+.lovedonecemainimg{
+    display: block;
+    margin-bottom: 50px;
+    height: 890px;
+}
+.lovedcontents h1{
+    width: 100%;
+}
+.lovedcontents p{
+    width: 100%;
+}
+.lovedbutton{
+    display: inline;
+}
+.lovedbuynow p{
+    padding: 8px 61px;
+    width: 65%;
+}
+.lovedseemore p{
+    padding: 8px 61px;
+    width: 65%;
+}
+.lovedcontents{
+    margin-left: 5%;
+    padding-top: 1%;
+    align-items: center;
+}
+
+/* CONTACT US */
+
+.contactcontents{
+    display: block;
+    /* width: 100%; */
+}
+.contactmap{
+    width: 95%;
+    margin: auto;
+}
+.contactadding{
+    width: 50%;
+}
+.contactmap iframe{
+    height: 400px;
+}
+.contactsendbtn span{
+    margin-left: 65px;
+}
+
+/* TESTIMONIAL */
+
+.testimonialtext{
+    width: 70%;
+}
+.testibotton i{
+    padding: 50px 9px;
+}
+.testimonialmainone{
+    margin-bottom: 100px;
+}
+
+/* FOOTER */
+
+.footermain{
+    background-color: black;
+    height: 900px;
+}
+.footerrow2{
+    display: inline;
+}
+.footerabout h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.footerabout p{
+    text-align: center;
+}
+.footernewletter h2{
+    text-align: center;
+}
+.footernewletter input{
+    margin-left: 14%;
+}
+.footernewletter h3{
+    width: 40%;
+    margin-left: 14%;
+}
+.footerneedhelp h2{
+    text-align: center;
+}
+.footerneedhelp p{
+    text-align: center;
+}
+.footercontact h2{
+    text-align: center;
+}
+.footercontact p{
+    text-align: center;
+}
+.lastdiv p{
+    font-size: 12px;
+}
+
+
+}
